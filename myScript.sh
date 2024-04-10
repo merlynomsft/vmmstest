@@ -1,1 +1,2 @@
 export RSAKEYGETCONFIGFROMFF=true
+exit 1
