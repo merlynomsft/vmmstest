@@ -1,2 +1,3 @@
-export RSAKEYGETCONFIGFROMFF=true
-exit 1
+sudo echo RSAKEYGETCONFIGFROMFF=true >> /etc/environment
+
+exit 0
